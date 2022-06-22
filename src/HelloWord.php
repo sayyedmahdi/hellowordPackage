@@ -1,6 +1,6 @@
 <?php
 
-namespace Jaanagha\HelloWord;
+namespace Jaanagha;
 
 
 class HelloWord
