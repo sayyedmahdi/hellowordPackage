@@ -1,4 +1,4 @@
 <?php
 require 'vendor/autoload.php';
-require 'src/Helloword/src/index.php';
+require 'src/HelloWord/src/index.php';
 

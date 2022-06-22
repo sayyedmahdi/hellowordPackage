@@ -7,7 +7,7 @@ use PHPUnit\Framework\TestCase;
 final class HelloWordTest extends TestCase
 {
     public function testSayHello(){
-        $helloWord = new Vendor\HelloWorld\HelloWord();
+        $helloWord = new \Jaanagha\Helloword\HelloWord();
         $this->assertEquals('Hello World!', $helloWord->sayHello());
     }
 }

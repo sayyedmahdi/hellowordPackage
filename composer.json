@@ -1,8 +1,9 @@
 {
-    "name": "vendor/helloword",
+    "name": "Jannagha/helloword",
+    "description": "my first package for publish in composer",
     "autoload": {
         "psr-4": {
-            "Vendor\\Helloword\\": "src/"
+            "Jaanagha\\Helloword\\": "src/"
         }
     },
     "authors": [
