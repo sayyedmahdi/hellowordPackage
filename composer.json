@@ -3,7 +3,7 @@
     "description": "my first package for publish in composer",
     "autoload": {
         "psr-4": {
-            "Jaanagha\\Helloword\\": "src/"
+            "jaanagha\\Helloword\\": "src/"
         }
     },
     "authors": [
